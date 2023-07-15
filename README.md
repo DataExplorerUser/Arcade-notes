@@ -2,7 +2,7 @@
 [Arcade API latest development release](https://api.arcade.academy/en/development/)
 [My bugfix commit]()
 
-#GUI
+# GUI
 https://api.arcade.academy/en/latest/api/gui_widgets.html#arcade-gui-uiboxlayout
 
 https://api.arcade.academy/en/latest/api/text_pyglet.html
@@ -19,7 +19,7 @@ https://api.arcade.academy/examples/gui_flat_button.html
 
 https://api.arcade.academy/en/latest/examples/gui_flat_button.html
 
-#Window and View - Python Arcade 2.6.17
+# Window and View - Python Arcade 2.6.17
 
 You need a gui manager for each view and enable/disable when the view changes.
 
@@ -55,29 +55,26 @@ Set maximum axeeen size
 https://api.arcade.academy/en/latest/api/window.html#arcade.Window.set_maximum_size
 
 
-#Build a Platform Game in Python With Arcade – Real Python
+# Build a Platform Game in Python With Arcade – Real Python --> covers VIEWS
 
 https://realpython.com/platformer-python-arcade/
 
-#Miscellaneous
+# Miscellaneous
 https://api.arcade.academy/en/latest/examples/gradients.html#gradients
 
 https://api.arcade.academy/en/latest/tutorials/raycasting/index.html#raycasting-tutorial
 
-
-#Multiple rooms / multiple questions / rounds
+# Multiple rooms / multiple questions / rounds
 https://api.arcade.academy/en/latest/examples/sprite_rooms.html#sprite-rooms
 
-#Music player including example texture buttons hovered, pressed
+# Music player including example texture buttons hovered, pressed
 https://api.arcade.academy/en/latest/examples/music_control_demo.html#music-control-demo
 
 https://api.arcade.academy/en/latest/api/window.html#arcade-schedule
 
-
-
-Inventory demo Arcade
+# Inventory demo Arcade
 https://youtu.be/fUf0Y_qTqsg
 
-Game platformer code ideas dataclass key input handler
+# Game platformer code ideas dataclass key input handler
 https://youtu.be/uI5ChUr8NVw
 https://github.com/jjossie/gravity-platformer
