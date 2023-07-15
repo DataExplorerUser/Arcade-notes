@@ -1,6 +1,7 @@
 # Arcade notes
 [Arcade API latest development release](https://api.arcade.academy/en/development/)
-[My bugfix commit]()
+
+[Videoplayer bugfix commit](https://github.com/pythonarcade/arcade/commit/288fab37b8665276b0cef46c5e79c6dd95fde974#commitcomment-121642421)
 
 # GUI
 https://api.arcade.academy/en/latest/api/gui_widgets.html#arcade-gui-uiboxlayout
