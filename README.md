@@ -76,6 +76,6 @@ https://api.arcade.academy/en/latest/examples/music_control_demo.html#music-cont
 
 https://api.arcade.academy/en/latest/api/window.html#arcade-schedule
 
-# Game platformer code ideas dataclass key input handler
+## Game platformer code ideas dataclass key input handler
 https://youtu.be/uI5ChUr8NVw
 https://github.com/jjossie/gravity-platformer
