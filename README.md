@@ -40,9 +40,11 @@ https://api.arcade.academy/en/latest/api/window.html#arcade.Window.maximize
 Set_fullscreen api function 
 https://api.arcade.academy/en/latest/api/window.html#arcade.Window.set_fullscreen
 
-Set maximum axeeen size
+Set maximum screen size
 https://api.arcade.academy/en/latest/api/window.html#arcade.Window.set_maximum_size
 
+Load font
+https://api.arcade.academy/en/development/api_docs/api/text.html#arcade-load-font
 
 ## Build a Platform Game in Python With Arcade – Real Python --> covers VIEWS
 
