@@ -3,6 +3,11 @@
 
 [Videoplayer bugfix commit](https://github.com/pythonarcade/arcade/commit/288fab37b8665276b0cef46c5e79c6dd95fde974#commitcomment-121642421)
 
+## Building a menu with buttons and views
+
+https://api.arcade.academy/en/development/tutorials/menu/index.html
+
+
 ## Inventory demo in Arcade using VIEWS
 [Arcade inventory VIEWS - part 1](https://youtu.be/fUf0Y_qTqsg)
 
