@@ -5,6 +5,7 @@
 
 ## Inventory demo in Arcade using VIEWS
 [Arcade inventory VIEWS - part 1](https://youtu.be/fUf0Y_qTqsg)
+
 [Arcade inventory VIEWS - part 2](https://www.youtube.com/watch?v=zeZqyhoN7-E)
 
 ## Window and View - Python Arcade 2.6.17
