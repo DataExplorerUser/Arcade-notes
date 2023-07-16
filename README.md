@@ -4,7 +4,8 @@
 [Videoplayer bugfix commit](https://github.com/pythonarcade/arcade/commit/288fab37b8665276b0cef46c5e79c6dd95fde974#commitcomment-121642421)
 
 ## Inventory demo in Arcade using VIEWS
-https://youtu.be/fUf0Y_qTqsg
+[Arcade inventory VIEWS - part 1](https://youtu.be/fUf0Y_qTqsg)
+[Arcade inventory VIEWS - part 2](https://www.youtube.com/watch?v=zeZqyhoN7-E)
 
 ## Window and View - Python Arcade 2.6.17
 
