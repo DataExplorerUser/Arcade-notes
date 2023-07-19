@@ -2,6 +2,7 @@
 [Arcade API latest development release](https://api.arcade.academy/en/development/)
 
 [Videoplayer bugfix commit](https://github.com/pythonarcade/arcade/commit/288fab37b8665276b0cef46c5e79c6dd95fde974#commitcomment-121642421)
+
 [Pyglet bug 'free resource error on exit'](https://github.com/pyglet/pyglet/issues/885)
 
 ## Building a menu with buttons and views
