@@ -93,3 +93,6 @@ https://github.com/jjossie/gravity-platformer
 
 ## Huntgame views example
 https://github.com/pushfoo/arcade-huntgame/blob/main/huntgame/views.py
+
+## Arcade text positioning anchor bug
+https://github.com/pythonarcade/arcade/issues/1839
