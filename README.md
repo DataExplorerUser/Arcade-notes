@@ -90,3 +90,6 @@ https://api.arcade.academy/en/latest/api/window.html#arcade-schedule
 ## Game platformer code ideas dataclass key input handler
 https://youtu.be/uI5ChUr8NVw
 https://github.com/jjossie/gravity-platformer
+
+## Huntgame views example
+https://github.com/pushfoo/arcade-huntgame/blob/main/huntgame/views.py
